@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2544-alternating-digit-sum](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/2544-alternating-digit-sum) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
