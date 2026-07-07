@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0217-contains-duplicate](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0217-contains-duplicate) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/2553-separate-the-digits-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
