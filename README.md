@@ -28,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0258-add-digits) |
 | [2544-alternating-digit-sum](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/2544-alternating-digit-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0258-add-digits) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/2553-separate-the-digits-in-an-array) |
 ## Sorting
 |  |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0709-to-lower-case) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
