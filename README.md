@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0217-contains-duplicate) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/2553-separate-the-digits-in-an-array) |
+| [2670-find-the-distinct-difference-array](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/2670-find-the-distinct-difference-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0217-contains-duplicate) |
+| [2670-find-the-distinct-difference-array](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/2670-find-the-distinct-difference-array) |
 ## Two Pointers
 |  |
 | ------- |
