@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0217-contains-duplicate) |
+| [0724-find-pivot-index](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0724-find-pivot-index) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/2553-separate-the-digits-in-an-array) |
 | [2670-find-the-distinct-difference-array](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/2670-find-the-distinct-difference-array) |
 ## Hash Table
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
