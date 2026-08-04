@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0217-contains-duplicate) |
+| [0643-maximum-average-subarray-i](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0724-find-pivot-index) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/2553-separate-the-digits-in-an-array) |
 | [2670-find-the-distinct-difference-array](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/2670-find-the-distinct-difference-array) |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0035-search-insert-position) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
