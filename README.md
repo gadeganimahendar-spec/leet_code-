@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0283-move-zeroes) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Database
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/0258-add-digits) |
 | [2544-alternating-digit-sum](https://github.com/gadeganimahendar-spec/leet_code-/tree/master/2544-alternating-digit-sum) |
 ## Simulation
